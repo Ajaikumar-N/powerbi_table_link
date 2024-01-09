@@ -1,0 +1,23 @@
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+p em {
+  background: yellow;
+  padding: 5px;
+}
+.simple-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.simple-table th,
+.simple-table td {
+  border: 1px solid #DDDDDD;
+  text-align: left;
+}
+.simple-table th {
+  background-color: #F2F2F2;
+}
+
+
+/*# sourceMappingURL=https://localhost:8080/assets/visual.css.map*/
